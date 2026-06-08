@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    padding: 50px;
+}
+h1 {
+    color: #f38020; /* Cloudflare Orange */
+}
+button {
+    padding: 10px 20px;
+    background-color: #f38020;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
